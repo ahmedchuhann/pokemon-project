@@ -1,0 +1,42 @@
+*{
+
+    margin-left: 0;
+   padding-left: 0;
+
+    }
+    .header{
+        display: flex;
+        justify-content: center;
+    }
+    .logo ul, li{
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        justify-content: space-evenly;
+        margin-left: 25px;
+        border-radius: 20px;
+       
+    }
+    .align{
+        width: 350px;
+        padding-bottom: 130px;
+    }
+    .content{
+        padding-left: 600px;
+        width: 260px;
+      position: relative;
+      bottom: 132px;
+      right: 15px;
+    border-radius: 20px;
+
+    }
+    .col-4{
+        position: relative;
+        bottom: 120px;
+    }
+    .col-3{
+        display: flex;
+        justify-content: center;
+    }   
+
+        
